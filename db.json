@@ -1,0 +1,283 @@
+{
+  "test": [
+    {
+      "name" : "Templo Sede",
+      "address": "Rua Dr. Laranjeiras, 31 , Centro",
+      "city": "Guarapuava",
+      "uf": "PR",
+      "phone" : "(42) 3623-5879",
+      "image": "https://imgur.com/HWxl55R.jpg"
+    },
+    {
+      "name" : "Vila Carli",
+      "address": "Rua Evang. Eduardo Diniz, 266",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "São Miguel",
+      "address": "R. Simon Lundgren, 58, B. Santana",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Paz e Bem",
+      "address": "R. Antenor P. dos Santos, 278",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Bela",
+      "address": "R. Guilherme Haenich, 170",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Colégio Agrícola",
+      "address": "R. Mário Virmond, 376",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim das Américas",
+      "address": "Rua Ibiporã",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Popular",
+      "address": "R. Nova Londrina, 56, B. Santana",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim Planalto",
+      "address": "R. José Batisteli Filho, 556, V. Bela",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Residencial 2000",
+      "address": "Rua das Profissões, 222",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "São Vicente",
+      "address": "Rua Sarandi, 56, B. Cascavel",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Santa Matilde",
+      "address": "Rua Palmital, 191, B. Morro Alto",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Colibri I",
+      "address": "Avenida Miguel Couto, 64, B. Alto Cascavel",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Santa Cruz",
+      "address": "R. Prof. Amálio Pinheiro, 309",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Colibri II",
+      "address": "R. Mendes de Sá,  B. Alto Cascavel",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila São João",
+      "address": "R. Blumenal, 909, B. Boqueirão",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Núcleo Tancredo Neves",
+      "address": "R. José Linhares, 187",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Jordão",
+      "address": "R. Wilde Martini, 416",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim Veneza",
+      "address": "R. Borges de Medeiros, 303, V. Bela",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim Dona Maria (Vila Pequena)",
+      "address": "R. Rezende, 148",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Parque das Árvores",
+      "address": "R. abigail D, Borges, 663",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "São Manoel",
+      "address": "R. Dr. Otto Rickli, 188, B. São Cristóvão",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Núcleo Adão Kaminski",
+      "address": "Rua Imperial, 147",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Cristo Rei",
+      "address": "R. das Figueiras, 150, B. São Cristóvão",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Karen",
+      "address": "Rua Apixay, 642, B. São Cristóvão",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Primavera",
+      "address": "R. Angelo Dalla Vecchia, 188",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Candói",
+      "address": "R. João Kavetski, 147",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim Bandeirantes",
+      "address": "Av. Bandeirantes, 405",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Lagoa Seca",
+      "address": "Rua Principal",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jardim Europa",
+      "address": "Rua Inglaterra, 62. Xarquinho",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Concórdia",
+      "address": "R. Porto Amazonas, 78",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "São Marcos",
+      "address": "R. Adão Joel Dala Rosa, 273, B. Boqueirão",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila São Pedro",
+      "address": "R. Pedro Tereza Goes, 237, B. Boqueirão",
+      "city": "Guarapuava",
+      "uf": "PR",
+      "image": "https://imgur.com/dMRTlc1.jpg"
+    },
+    {
+      "name" : "Campina do Simão",
+      "address": "Av. João Ferreira Neves",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Foz do Jordão",
+      "address": "R. Gov. Parigot de Souza",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Paz",
+      "address": "Rua N. Sra. da Paz",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Colônia Vitória",
+      "address": "Av. Paraná, 651, Centro",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Vila Copel",
+      "address": "Av. das Nações, Reserva do Iguaçu",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Guará",
+      "address": "R. Sophia Herich Horst",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Palmeirinha",
+      "address": "R. Anibal Virmond",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Turvo",
+      "address": "Rua Eucalina Nunes, 278, Centro",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Guairacá",
+      "address": "Rua Principal",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Ibema",
+      "address": "Pov. Faxinal da Boa Vista",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Trevo do Relógio",
+      "address": "Trevo do Posto Relógio",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Jaciaba",
+      "address": "Rua Principal",
+      "city": "Guarapuava",
+      "uf": "PR"
+    },
+    {
+      "name" : "Saudade",
+      "address": "Rua Principal",
+      "city": "Guarapuava",
+      "uf": "PR"
+    }
+  ]
+}

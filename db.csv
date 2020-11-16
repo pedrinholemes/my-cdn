@@ -1,0 +1,142 @@
+name; address; city;
+{"name" : "Templo Sede " 
+, "address": "Rua Dr. Laranjeiras, 31 , Centro Telefone (42) 3623-5879",
+},
+{"name" : "Centro de Eventos Betel" 
+, "address": " Rua Raul Pompéia, 128, São Cristóvão",
+},
+{"name" : "Vila Carli" 
+, "address": " Rua Evang. Eduardo Diniz, 266 ",
+},
+{"name" : "São Miguel" 
+, "address": "R. Simon Lundgren, 58, B. Santana",
+},
+{"name" : "Paz e Bem" 
+, "address": "R. Antenor P. dos Santos, 278",
+},
+{"name" : "Vila Bela" 
+, "address": "R. Guilherme Haenich, 170",
+},
+{"name" : "Colégio Agrícola" 
+, "address": " R. Mário Virmond, 376",
+},
+{"name" : "Jd das Américas" 
+, "address": "Rua Ibiporã",
+},
+{"name" : "Vila Popular" 
+, "address": "R. Nova Londrina, 56, B. Santana",
+},
+{"name" : "Jd Planalto" 
+, "address": "R. José Batisteli Filho, 556, V. Bela",
+},
+{"name" : "Residencial 2000" 
+, "address": "Rua das Profissões, 222",
+},
+{"name" : "São Vicente" 
+, "address": "Rua Sarandi, 56, B. Cascavel",
+},
+{"name" : "Santa Matilde" 
+, "address": "Rua Palmital, 191, B. Morro Alto",
+},
+{"name" : "Colibri I" 
+, "address": "Avenida Miguel Couto, 64, B. Alto Cascavel",
+},
+{"name" : "Santa Cruz" 
+, "address": "R. Prof. Amálio Pinheiro, 309",
+},
+{"name" : "Colibri II" 
+, "address": "R. Mendes de Sá,  B. Alto Cascavel",
+},
+{"name" : "Vila São João" 
+, "address": "R. Blumenal, 909, B. Boqueirão",
+},
+{"name" : "Núcleo Tancredo Neves" 
+, "address": "R. José Linhares, 187",
+},
+{"name" : "Vila Jordão" 
+, "address": "R. Wilde Martini, 416",
+},
+{"name" : "Jd Veneza" 
+, "address": "R. Borges de Medeiros, 303, V. Bela",
+},
+{"name" : "Jd Dona Maria (V. Peq)" 
+, "address": "R. Rezende, 148",
+},
+{"name" : "Parque das Árvores" 
+, "address": "R. abigail D, Borges, 663",
+},
+{"name" : "São Manoel" 
+, "address": "R. Dr. Otto Rickli, 188, B. São Cristóvão",
+},
+{"name" : "Núcleo Adão Kaminski" 
+, "address": "Rua Imperial, 147",
+},
+{"name" : "Cristo Rei" 
+, "address": "R. das Figueiras, 150, B. São Cristóvão",
+},
+{"name" : "Vila Karen" 
+, "address": "Rua Apixay, 642, B. São Cristóvão",
+},
+{"name" : "Primavera" 
+, "address": "R. Angelo Dalla Vecchia, 188",
+},
+{"name" : "Candói" 
+, "address": "R. João Kavetski, 147",
+},
+{"name" : "Jardim Bandeirantes" 
+, "address": "Av. Bandeirantes, 405",
+},
+{"name" : "Lagoa Seca" 
+, "address": "Rua Principal",
+},
+{"name" : "Jardim Europa" 
+, "address": "Rua Inglaterra, 62. Xarquinho",
+},
+{"name" : "Vila Concórdia" 
+, "address": "R. Porto Amazonas, 78",
+},
+{"name" : "São Marcos" 
+, "address": "R. Adão Joel Dala Rosa, 273, B. Boqueirão",
+},
+{"name" : "Vila São Pedro" 
+, "address": "R. Pedro Tereza Goes, 237, B. Boqueirão",
+},
+{"name" : "Campina do Simão" 
+, "address": "Av. João Ferreira Neves",
+},
+{"name" : "Foz do Jordão" 
+, "address": "R. Gov. Parigot de Souza",
+},
+{"name" :" Paz" 
+, "address": "Rua N. Sra. da Paz",
+},
+{"name" : "Colônia Vitória" 
+, "address": "Av. Paraná, 651, Centro",
+},
+{"name" : "Vila Copel" 
+, "address": "Av. das Nações, Reserva do Iguaçu",
+},
+{"name" : "Guará" 
+, "address": "R. Sophia Herich Horst",
+},
+{"name" : "Palmeirinha" 
+, "address": "R. Anibal Virmond",
+},
+{"name" : "Turvo" 
+, "address": "Rua Eucalina Nunes, 278, Centro",
+},
+{"name" : "Guairacá" 
+, "address": "Rua Principal",
+},
+{"name" : "Ibema" 
+, "address": "Pov. Faxinal da Boa Vista",
+},
+{"name" : "Trevo do Relógio" 
+, "address": "Trevo do Posto Relógio",
+},
+{"name" : "Jaciaba" 
+, "address": "Rua Principal",
+},
+{"name" : "Saudade" 
+, "address": "Rua Principal",
+},
